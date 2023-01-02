@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(247, 185, 185);
+}
+button {
+    border: 1px solid rgb(136, 63, 63);
+    border-radius: 8%;
+    background-color: lightcoral;
+    font-size: 20px;
+    font-weight: 400;
+}
+p {
+    font-size: 20px;
+    font-weight: 400;
+}
+input{
+    min-height: 22px;
+}
